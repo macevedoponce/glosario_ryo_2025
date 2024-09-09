@@ -1,0 +1,455 @@
+/* Estilos generales del cuerpo */
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #121212;
+    color: #e0e0e0;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+body.light-mode {
+    background-color: #ffffff;
+    color: #333;
+}
+
+/* Estilos del header */
+header {
+    background-color: #1e1e1e;
+    padding: 20px 0;
+    text-align: center;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+.light-mode header {
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+header img.logo {
+    max-width: 150px;
+    margin-bottom: 10px;
+}
+
+header h1, header p {
+    margin: 0;
+}
+
+.light-mode header h1, .light-mode header p {
+    color: #333;
+}
+
+/* Buscador */
+.search-section {
+    background-color: #1e1e1e;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+.light-mode .search-section {
+    background-color: #f9f9f9;
+}
+
+.search-section input {
+    padding: 10px 20px;
+    width: 80%;
+    max-width: 600px;
+    font-size: 1.2rem;
+    border: 2px solid #333;
+    border-radius: 25px;
+    background-color: #2c2c2c;
+    color: #fff;
+    outline: none;
+    transition: border-color 0.3s ease, background-color 0.3s ease;
+}
+
+.light-mode .search-section input {
+    background-color: #ffffff;
+    color: #333;
+    border-color: #ddd;
+}
+
+/* Categorías */
+.categories-section {
+    padding: 20px;
+    background-color: #1e1e1e;
+    text-align: center;
+}
+
+.light-mode .categories-section {
+    background-color: #f9f9f9;
+}
+
+.categories {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+.category-btn {
+    padding: 10px 20px;
+    border: 2px solid transparent;
+    background-color: #2c2c2c;
+    font-size: 1.1rem;
+    border-radius: 25px;
+    color: #fff;
+    cursor: pointer;
+    transition: background-color 0.3s, border-color 0.3s, box-shadow 0.3s;
+}
+
+.light-mode .category-btn {
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+.category-btn.active {
+    background-color: #bb86fc;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+    color: white;
+}
+
+.light-mode .category-btn.active {
+    background-color: #3498db;
+    color: white;
+}
+
+.category-btn:hover {
+    background-color: #333;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.4);
+}
+
+.light-mode .category-btn:hover {
+    background-color: #e0e0e0;
+}
+
+/* Estilos de la sección del glosario */
+.glosario-section {
+    padding: 40px 20px;
+    background-color: #121212;
+}
+
+.light-mode .glosario-section {
+    background-color: #ffffff;
+}
+
+/* Contenedor del glosario para dos columnas */
+.glosario-container {
+    display: flex;
+    justify-content: space-between;
+    gap: 40px;
+}
+
+@media (max-width: 992px) {
+    .glosario-container {
+        flex-direction: column;
+    }
+}
+
+/* Columnas de términos de riesgos y oportunidades */
+.glosario-column {
+    flex: 1;
+    padding: 20px;
+    background-color: #1e1e1e;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.light-mode .glosario-column {
+    background-color: #f9f9f9;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Títulos de las columnas de riesgos y oportunidades */
+.glosario-column h2 {
+    color: #ffffff;
+    margin-bottom: 20px;
+    font-size: 1.8rem;
+    padding-bottom: 10px;
+    text-align: center;
+    border-bottom: 2px solid transparent; /* Color de la línea inicial transparente */
+    transition: border-color 0.3s ease; /* Transición suave */
+}
+
+.light-mode .glosario-column h2 {
+    color: #333;
+}
+
+/* Lista de términos dentro de cada columna */
+.glosario-list {
+    display: flex;
+    flex-direction: column;
+    gap: 20px; /* Espaciado entre términos */
+}
+
+/* Estilos para los términos individuales */
+.term {
+    background-color: #2c2c2c;
+    padding: 20px;
+    border-left: 5px solid;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.light-mode .term {
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+.term:hover {
+    background-color: #333;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.5);
+}
+
+.light-mode .term:hover {
+    background-color: #e0e0e0;
+}
+
+.term-header {
+    font-size: 1.6rem;
+    margin-bottom: 10px;
+}
+
+.term p {
+    font-size: 1.2rem;
+    color: #b0b0b0;
+}
+
+.light-mode .term p {
+    color: #333;
+}
+
+/* Estilos para las animaciones */
+.fade-in {
+    animation: fadeIn 0.5s ease;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Estilos para el footer */
+footer {
+    background-color: #1e1e1e;
+    padding: 20px;
+    text-align: center;
+    font-size: 1rem;
+    color: #b0b0b0;
+    border-top: 1px solid #333;
+}
+
+.light-mode footer {
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+/* Modo claro para el contenedor del glosario */
+.light-mode .glosario-section {
+    background-color: #ffffff;
+}
+
+/* Responsiveness para pantallas más pequeñas */
+@media (max-width: 768px) {
+    .glosario-container {
+        flex-direction: column;
+    }
+
+    .term-header {
+        font-size: 1.4rem;
+    }
+
+    .term p {
+        font-size: 1rem;
+    }
+}
+
+/* Switch de tema */
+.theme-toggle-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 20px;
+}
+
+#theme-label {
+    font-size: 1rem;
+    color: #e0e0e0;
+}
+
+.light-mode #theme-label {
+    color: #333;
+}
+
+/* Switch estilos */
+.switch {
+    position: relative;
+    display: inline-block;
+    width: 60px;
+    height: 34px;
+}
+
+.switch input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
+
+.slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    transition: 0.4s;
+    border-radius: 34px;
+}
+
+.slider:before {
+    position: absolute;
+    content: "";
+    height: 26px;
+    width: 26px;
+    left: 4px;
+    bottom: 4px;
+    background-color: white;
+    transition: 0.4s;
+    border-radius: 50%;
+}
+
+input:checked + .slider {
+    background-color: #4CAF50;
+}
+
+input:checked + .slider:before {
+    transform: translateX(26px);
+}
+
+.slider.round {
+    border-radius: 34px;
+}
+
+.slider.round:before {
+    border-radius: 50%;
+}
+
+/* Estilos del modal */
+.modal {
+    display: none; /* Oculto por defecto */
+    position: fixed;
+    z-index: 1000;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, 0.8); /* Fondo oscuro */
+    justify-content: center;
+    align-items: center;
+}
+
+.modal-content {
+    background-color: #2c2c2c;
+    color: #e0e0e0;
+    margin: 5% auto;
+    padding: 30px;
+    border-radius: 12px;
+    max-width: 600px;
+    width: 90%;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+    text-align: center;
+    position: relative;
+    transition: transform 0.3s ease, opacity 0.3s ease;
+    opacity: 0;
+    transform: translateY(-50px);
+}
+
+.modal.open .modal-content {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.light-mode .modal-content {
+    background-color: #fff;
+    color: #333;
+}
+
+.modal h2 {
+    margin-bottom: 15px;
+    font-size: 2rem;
+    color: inherit;
+}
+
+/* Estilos para la temática y tipo (Riesgo/Oportunidad) */
+.term-tematica, .term-type {
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+    padding: 5px 10px;
+    border-radius: 25px;
+    display: inline-block;
+}
+
+.term-tematica {
+    background-color: #4CAF50; /* Se ajustará dinámicamente */
+    color: white;
+}
+
+.term-type {
+    background-color: #FF5722; /* Se ajustará dinámicamente */
+    color: white;
+    margin-left: 10px;
+}
+
+/* Estilos del contenido del término */
+.modal p {
+    font-size: 1.2rem;
+    color: inherit;
+}
+
+.light-mode .modal p {
+    color: #333;
+}
+
+/* Estilos para el botón de cerrar */
+.close {
+    position: absolute;
+    top: 10px;
+    right: 20px;
+    color: #aaa;
+    font-size: 28px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: color 0.3s ease;
+}
+
+.close:hover,
+.close:focus {
+    color: #f00;
+}
+
+/* Responsiveness */
+@media (max-width: 768px) {
+    .modal-content {
+        padding: 20px;
+    }
+
+    .modal h2 {
+        font-size: 1.6rem;
+    }
+
+    .modal p {
+        font-size: 1rem;
+    }
+}

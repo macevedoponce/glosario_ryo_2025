@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title id="dynamic-title">Glosario de Términos</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <header>
+        <div class="header-content">
+            <img id="logo" src="" alt="Logo CEPLAN" class="logo">
+            <h1 id="header-title">Glosario de Términos</h1>
+            <p id="header-description">Explora riesgos y oportunidades globales y nacionales.</p>
+            <div class="theme-toggle-container">
+                <label class="switch">
+                    <input type="checkbox" id="theme-toggle">
+                    <span class="slider round"></span>
+                </label>
+                <span id="theme-label">Modo oscuro</span>
+            </div>
+        </div>
+    </header>
+
+    <!-- Modal para mostrar detalles del término -->
+    <div id="termModal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <h2 id="modal-term-title"></h2>
+            <div id="modal-term-tematica" class="term-tematica"></div>
+            <div id="modal-term-type" class="term-type"></div>
+            <p id="modal-term-description"></p>
+        </div>
+    </div>
+
+
+    <section class="search-section">
+        <div class="container">
+            <input type="text" id="search" placeholder="Buscar por término..." onkeyup="filterTerms()">
+        </div>
+    </section>
+
+    <!-- Sección de botones para seleccionar la temática -->
+    <section class="categories-section">
+        <div class="container">
+            <div class="categories" id="category-nav"></div>
+        </div>
+    </section>
+
+    <!-- Contenedor del glosario -->
+    <section class="glosario-section">
+        <div class="container glosario-container">
+            <!-- Columna de riesgos -->
+            <div class="glosario-column">
+                <h2 id="riesgos-title">Riesgos</h2>
+                <div id="glosario-riesgos" class="glosario-list"></div>
+            </div>
+    
+            <!-- Columna de oportunidades -->
+            <div class="glosario-column">
+                <h2 id="oportunidades-title">Oportunidades</h2>
+                <div id="glosario-oportunidades" class="glosario-list"></div>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <p>Glosario de Términos - CEPLAN</p>
+    </footer>
+
+    <script src="scripts.js"></script>
+    
+
+</body>
+</html>
