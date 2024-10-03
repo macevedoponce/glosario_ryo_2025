@@ -44,10 +44,6 @@
           "descripcion": "Aumento de la incidencia de trastornos mentales, como la ansiedad y la depresión, en la población debido a la pandemia y otros factores relacionados con el cambio social, como la economía, el clima y la tecnología, lo que puede tener consecuencias negativas en la calidad de vida y el bienestar social."
         },
         {
-          "termino": "Fracaso de la descentralización",
-          "descripcion": "Fracaso de la reforma de descentralización del país, que tiene como objetivo distribuir funciones entre la administración central y los territorios o las entidades que cumplen labores especializadas dentro de los mismos."
-        },
-        {
           "termino": "Fracaso de la planificación urbana",
           "descripcion": "Inadecuada o inexistente planificación de las ciudades, asociada a una dispersión urbana que genera desafíos sociales, ambientales y de salud."
         },
@@ -333,6 +329,14 @@
         {
           "termino": "Desarrollo de Parques Industriales Tecnoecológicos",
           "descripcion": "Se refiere a la creación y expansión de zonas industriales diseñadas para albergar empresas y organizaciones centradas en tecnologías avanzadas y sostenibilidad ambiental. Estos parques combinan infraestructuras de alta tecnología con prácticas ecológicamente responsables, como el uso eficiente de energías renovables, gestión de residuos avanzada y sistemas de construcción sostenible. Su objetivo es fomentar la innovación y el desarrollo económico mientras minimizan el impacto ambiental."
+        },
+        {
+          "termino": "Desarrollo de redes internacionales de producción",
+          "descripcion": "Se refiere al establecimiento y expansión de sistemas de producción que involucran a múltiples países, facilitados por la globalización y la integración económica. Estas redes permiten a las empresas descomponer sus procesos de producción en distintas etapas y ubicar cada una en diferentes países, según donde se maximicen las ventajas como costos laborales más bajos, acceso a materias primas, tecnologías especializadas, o incentivos fiscales."
+        },
+        {
+          "termino": "Integración económica a nivel de clústeres regionales",
+          "descripcion": "Refiere al proceso mediante el cual empresas y organizaciones en una región geográfica específica colaboran y coordinan actividades para mejorar su competitividad y eficiencia. Estos clústeres se forman en torno a industrias o sectores específicos, como la tecnología, la manufactura o la agricultura, y pueden incluir empresas, proveedores, instituciones de investigación y entidades gubernamentales."
         }
       ]
     },
@@ -362,20 +366,32 @@
         {
           "termino": "Crisis del sistema democrático",
           "descripcion": "Se refiere a una situación en la que las instituciones y procesos democráticos enfrentan desafíos significativos que amenazan su funcionamiento y legitimidad. Esto puede incluir la erosión de las normas democráticas, corrupción política, polarización extrema, desconfianza en las instituciones, interferencia externa en elecciones, y la restricción de libertades civiles."
+        },
+        {
+          "termino": "Fracaso de la descentralización",
+          "descripcion": "Fracaso de la reforma de descentralización del país, que tiene como objetivo distribuir funciones entre la administración central y los territorios o las entidades que cumplen labores especializadas dentro de los mismos."
+        },
+        {
+          "termino": "Fortalecimiento de economía ilegales",
+          "descripcion": ""
+        },
+        {
+          "termino": "Transnacionalización de las organizaciones delictivas",
+          "descripcion": ""
+        },
+        {
+          "termino": "Profundización de la desinstitucionalización y desbalance de los poderes del Estado",
+          "descripcion": ""
+        },
+        {
+          "termino": "Surgimiento de poderes demagógicos y populistas",
+          "descripcion": ""
         }
       ],
       "oportunidades": [
         {
           "termino": "Desarrollo de tecnología de alerta temprana de desastres naturales",
           "descripcion": "Refiere a la creación y mejora de sistemas tecnológicos diseñados para detectar y advertir sobre la inminencia de desastres naturales, como terremotos, tsunamis, huracanes o inundaciones, con suficiente anticipación para permitir la evacuación y otras medidas de mitigación. Estas tecnologías pueden incluir sensores sísmicos, radares meteorológicos, satélites y sistemas de comunicación avanzada."
-        },
-        {
-          "termino": "Desarrollo de redes internacionales de producción",
-          "descripcion": "Se refiere al establecimiento y expansión de sistemas de producción que involucran a múltiples países, facilitados por la globalización y la integración económica. Estas redes permiten a las empresas descomponer sus procesos de producción en distintas etapas y ubicar cada una en diferentes países, según donde se maximicen las ventajas como costos laborales más bajos, acceso a materias primas, tecnologías especializadas, o incentivos fiscales."
-        },
-        {
-          "termino": "Integración económica a nivel de clústeres regionales",
-          "descripcion": "Refiere al proceso mediante el cual empresas y organizaciones en una región geográfica específica colaboran y coordinan actividades para mejorar su competitividad y eficiencia. Estos clústeres se forman en torno a industrias o sectores específicos, como la tecnología, la manufactura o la agricultura, y pueden incluir empresas, proveedores, instituciones de investigación y entidades gubernamentales."
         },
         {
           "termino": "Desarrollo de programas de intercambio de talentos",
@@ -390,12 +406,16 @@
           "descripcion": "Refiere a la creación de infraestructuras de seguridad cibernética avanzadas que integran tecnologías de blockchain, inteligencia artificial (IA) e Internet de las Cosas (IoT) para proteger datos y sistemas contra ataques y vulnerabilidades."
         },
         {
-          "termino": "Implementación de la IA para acelerar los procesos públicos",
+          "termino": "Implementación de la IA para acelerar los procesos de gestión pública",
           "descripcion": "Refiere al uso de tecnologías de inteligencia artificial para mejorar y agilizar las operaciones y servicios ofrecidos por entidades gubernamentales. Esta implementación puede incluir la automatización de tareas rutinarias, el análisis de grandes volúmenes de datos para la toma de decisiones, y la personalización de servicios para ciudadanos."
         },
         {
           "termino": "Desarrollo de plataformas y herramientas Civictech",
           "descripcion": "Refiere a la creación y mejora de tecnologías orientadas a empoderar a los ciudadanos en la participación cívica y mejorar la transparencia, eficiencia y rendición de cuentas en la gestión pública. Las plataformas y herramientas Civictech incluyen aplicaciones móviles, sitios web y otros recursos digitales que facilitan la interacción entre ciudadanos y gobiernos, promueven la participación en procesos políticos, y permiten la colaboración en la solución de problemas comunitarios."
+        },
+        {
+          "termino": "Adhesión a alianzas internacionales para la mejora de políticas y gobernanza ",
+          "descripcion": ""
         }
       ]
     }
