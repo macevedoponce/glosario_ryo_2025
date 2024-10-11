@@ -155,6 +155,10 @@
         {
           "termino": "Expansión de la economía regenerativa",
           "descripcion": "Refiere al crecimiento de prácticas y modelos económicos que no solo buscan minimizar el impacto ambiental, sino que activamente restauran y mejoran los ecosistemas y las comunidades. Esto incluye tecnologías limpias, agricultura regenerativa y negocios circulares, promoviendo la resiliencia y la equidad a largo plazo."
+        },
+        {
+          "termino": "Desarrollo de tecnología de alerta temprana de desastres naturales",
+          "descripcion": "Refiere a la creación y mejora de sistemas tecnológicos diseñados para detectar y advertir sobre la inminencia de desastres naturales, como terremotos, tsunamis, huracanes o inundaciones, con suficiente anticipación para permitir la evacuación y otras medidas de mitigación. Estas tecnologías pueden incluir sensores sísmicos, radares meteorológicos, satélites y sistemas de comunicación avanzada."
         }
       ]
     },
@@ -373,26 +377,22 @@
         },
         {
           "termino": "Fortalecimiento de economía ilegales",
-          "descripcion": ""
+          "descripcion": "Crecimiento de actividades económicas fuera de la legalidad que socavan la estabilidad y seguridad económica y política del país."
         },
         {
           "termino": "Transnacionalización de las organizaciones delictivas",
-          "descripcion": ""
+          "descripcion": "Expansión de redes criminales más allá de las fronteras nacionales, complicando su persecución y control."
         },
         {
           "termino": "Profundización de la desinstitucionalización y desbalance de los poderes del Estado",
-          "descripcion": ""
+          "descripcion": "Deterioro continuo de la estructura institucional y falta de equilibrio entre los poderes gubernamentales, debilitando la democracia y la gobernanza efectiva."
         },
         {
           "termino": "Surgimiento de poderes demagógicos y populistas",
-          "descripcion": ""
+          "descripcion": "Aparición de líderes que utilizan la retórica populista para manipular la opinión pública, menoscabando las normas democráticas y el estado de derecho."
         }
       ],
       "oportunidades": [
-        {
-          "termino": "Desarrollo de tecnología de alerta temprana de desastres naturales",
-          "descripcion": "Refiere a la creación y mejora de sistemas tecnológicos diseñados para detectar y advertir sobre la inminencia de desastres naturales, como terremotos, tsunamis, huracanes o inundaciones, con suficiente anticipación para permitir la evacuación y otras medidas de mitigación. Estas tecnologías pueden incluir sensores sísmicos, radares meteorológicos, satélites y sistemas de comunicación avanzada."
-        },
         {
           "termino": "Desarrollo de programas de intercambio de talentos",
           "descripcion": "Refiere a la creación y operación de iniciativas que permiten el movimiento temporal de empleados entre diferentes organizaciones, sectores o países para fomentar la transferencia de conocimientos, habilidades y experiencias. Estos programas están diseñados para enriquecer el desarrollo profesional de los participantes y potenciar la innovación y colaboración entre entidades."
@@ -415,7 +415,7 @@
         },
         {
           "termino": "Adhesión a alianzas internacionales para la mejora de políticas y gobernanza ",
-          "descripcion": ""
+          "descripcion": "Integración en redes y organizaciones globales que facilitan el intercambio de conocimientos y buenas prácticas para fortalecer la gobernanza y la implementación de políticas públicas eficaces y basadas en evidencia."
         }
       ]
     }
