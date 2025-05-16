@@ -13,21 +13,9 @@ function toggleTheme() {
     }
 }
 
-// Cargar el archivo JSON real y otras funciones
-fetch('./glosario.json')
-.then(response => response.json())
-.then(data => {
-    renderHeader(data); // Renderizar título, descripción y logo desde JSON
-    renderGlosario(data); // Renderizar los términos desde el inicio
-    createCategoryButtons(data); // Crear los botones de categorías
-})
-.catch(error => {
-    console.error('Error al cargar el archivo JSON:', error);
-});
-
 document.addEventListener("DOMContentLoaded", function() {
     const themeToggle = document.getElementById('theme-toggle');
-    const prefersDarkScheme = window.matchMedia("(prefers-color-scheme: dark)");
+    const prefersDarkScheme = window.matchMedia("(prefers-color-scheme: light)");
     let logo = document.getElementById('logo');
     let currentTheme = prefersDarkScheme.matches ? "dark" : "light";
 
@@ -41,6 +29,9 @@ document.addEventListener("DOMContentLoaded", function() {
     fetch('glosario.json')
     .then(response => response.json())
     .then(data => {
+        renderHeader(data); // Renderizar título, descripción y logo desde JSON
+        renderGlosario(data); // Renderizar los términos desde el inicio
+        createCategoryButtons(data); // Crear los botones de categorías
         logos.light = data.logo;
         logos.dark = data.logo_dark;
 

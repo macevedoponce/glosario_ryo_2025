@@ -1,6 +1,6 @@
 {
-  "titulo": "Glosario de términos: Riesgos y Oportunidades.",
-  "descripcion": "Explora los riesgos y oportunidades globales y nacionales que podrían impactar en el bienestar y desarrollo durante la próxima década.",
+  "titulo": "GLOSARIO DE TÉRMINOS: RIESGOS Y OPORTUNIDADES",
+  "descripcion": "Dirección Nacional de Prospectiva y Estudios Estratégico",
   "logo": "logo_ceplan.png",
   "logo_dark": "logo_ceplan_dark.png",
   "tematicas": {
@@ -8,28 +8,28 @@
       "color": "#FF5722",
       "riesgos": [
         {
-          "termino": "Erosión de la cohesión social",
-          "descripcion": "Debilitamiento de los lazos y vínculos que mantienen unida a una sociedad. Esto puede surgir debido a factores como la desigualdad económica, la polarización política, la propagación de desinformación y la exclusión social."
-        },
-        {
-          "termino": "Crisis alimentaria",
-          "descripcion": "Aumento a gran escala del hambre y/o malnutrición a nivel regional o mundial, producto de un inadecuado acceso a cantidades apropiadas y calidad de alimentos."
-        },
-        {
           "termino": "Colapso del sistema de seguridad social",
           "descripcion": "Posibilidad de que el sistema de seguridad social del país, que incluye la pensión, salud y seguro social, no pueda satisfacer las necesidades de la población debido a diversos factores, como la falta de financiamiento, la baja productividad, el envejecimiento de la población, entre otros. Este riesgo puede generar inestabilidad social, desigualdad y pobreza en los sectores más vulnerables de la población."
-        },
-        {
-          "termino": "Colusión de medios de comunicación",
-          "descripcion": "Posibilidad de que los medios de comunicación, que son una fuente importante de información y opinión para la sociedad, coludan para manipular la información y controlar la narrativa de los eventos en beneficio de sus intereses particulares, en lugar de actuar como una fuente objetiva e imparcial de información."
         },
         {
           "termino": "Contagio masivo por enfermedades infecciosas",
           "descripcion": "Propagación incontrolada de enfermedades infecciosas, como resultado de la resistencia a los antibióticos, antivirales y otros tratamientos, que ocasiona muertes masivas."
         },
         {
+          "termino": "Crisis alimentaria",
+          "descripcion": "Aumento a gran escala del hambre y/o malnutrición a nivel regional o mundial, producto de un inadecuado acceso a cantidades apropiadas y calidad de alimentos."
+        },
+        {
           "termino": "Crisis del sistema educativo",
           "descripcion": "Posibilidad de que el sistema educativo del país no sea capaz de satisfacer las necesidades y demandas de la sociedad, lo que podría limitar el desarrollo y el progreso del país."
+        },
+        {
+          "termino": "Déficit y vulnerabilidad de la infraestructura crítica ante riesgos de desastres",
+          "descripcion": "Falta de infraestructura resiliente y segura frente a desastres naturales, tecnológicos o antrópicos, como hospitales, escuelas, sistemas de transporte, agua y saneamiento."
+        },
+        {
+          "termino": "Erosión de la cohesión social",
+          "descripcion": "Debilitamiento de los lazos y vínculos que mantienen unida a una sociedad. Esto puede surgir debido a factores como la desigualdad económica, la polarización política, la propagación de desinformación y la exclusión social."
         },
         {
           "termino": "Erosión de la confianza juvenil por desilusión generalizada",
@@ -40,6 +40,10 @@
           "descripcion": "Intensificación de problemas sociales y tensiones en una comunidad, sociedad o país debido a conflictos socioambientales, desigualdades económicas, polarización política, tensiones étnicas o religiosas, entre otros factores."
         },
         {
+          "termino": "Exacerbación de la criminalidad",
+          "descripcion": "Refiere al aumento o intensificación de las actividades criminales dentro de una sociedad. Este fenómeno puede ser impulsado por factores como el desempleo, la desigualdad económica, la inestabilidad política, y la falta de efectividad en las políticas de seguridad pública."
+        },
+        {
           "termino": "Exacerbación de los problemas de salud mental",
           "descripcion": "Aumento de la incidencia de trastornos mentales, como la ansiedad y la depresión, en la población debido a la pandemia y otros factores relacionados con el cambio social, como la economía, el clima y la tecnología, lo que puede tener consecuencias negativas en la calidad de vida y el bienestar social."
         },
@@ -48,46 +52,50 @@
           "descripcion": "Inadecuada o inexistente planificación de las ciudades, asociada a una dispersión urbana que genera desafíos sociales, ambientales y de salud."
         },
         {
-          "termino": "Exacerbación de la criminalidad",
-          "descripcion": "Refiere al aumento o intensificación de las actividades criminales dentro de una sociedad. Este fenómeno puede ser impulsado por factores como el desempleo, la desigualdad económica, la inestabilidad política, y la falta de efectividad en las políticas de seguridad pública."
+          "termino": "Rezago en alfabetización digital en la población",
+          "descripcion": "Persistencia de brechas significativas en el acceso, uso y aprovechamiento de tecnologías digitales por parte de diversos grupos de la población, especialmente en zonas rurales, personas adultas mayores y sectores de bajos ingresos."
         }
       ],
       "oportunidades": [
         {
-          "termino": "Optimización en el desarrollo de vacunas contra enfermedades altamente transmisibles",
-          "descripcion": "Posibilidad de optimizar la investigación y el desarrollo de nuevas vacunas contra enfermedades infecciosas, incluyendo virus y bacterias, gracias a los avances tecnológicos y científicos en el campo de la biotecnología y la genómica.."
+          "termino": "Aceleración de la salud digital",
+          "descripcion": "Impulso del uso de tecnologías digitales para transformar la atención en salud, incluyendo la telemedicina, los historiales clínicos electrónicos, la inteligencia artificial para el diagnóstico, la salud móvil y las aplicaciones de monitoreo remoto."
         },
         {
           "termino": "Desarrollo de habilidades STEM en la educación",
-          "descripcion": "Refiere al fomento y la integración sistemática de las disciplinas de Ciencia, Tecnología, Ingeniería y Matemáticas (STEM, por sus siglas en inglés) en los programas educativos. Este desarrollo se centra en preparar a los estudiantes con las competencias y conocimientos necesarios para comprender y aplicar principios científicos y tecnológicos, resolver problemas complejos y fomentar la innovación."
-        },
-        {
-          "termino": "Desarrollo de la edición genética en medicina",
-          "descripcion": "Refiere al avance y aplicación de tecnologías que permiten modificar el ADN de organismos vivos, incluyendo humanos, con alta precisión. En medicina, la edición genética se utiliza para corregir mutaciones que causan enfermedades, mejorar la resistencia a patologías y optimizar terapias genéticas."
+          "descripcion": "Refiere al fomento y la integración sistemática de las disciplinas de Ciencia, Tecnología, Ingeniería y Matemáticas (STEM, por sus siglas en inglés) en los programas educativos. Este desarrollo se centra en preparar a los estudiantes con las competencias y conocimientos necesarios para comprender y aplicar principios científicos y tecnológicos, resolver problemas complejos y fomentar la innovación. "
         },
         {
           "termino": "Expansión de la enseñanza de lenguajes de programación en el sistema educativo",
           "descripcion": "Se refiere al aumento y la integración sistemática de la enseñanza de lenguajes de programación como parte del currículo escolar en todos los niveles educativos. Esta expansión busca dotar a los estudiantes de habilidades fundamentales en codificación y pensamiento computacional, considerados esenciales en la era digital."
         },
         {
-          "termino": "Transformación de la educación superior con IA",
-          "descripcion": "Posibilidad de aplicar la Inteligencia Artificial en instituciones educativas de nivel universitario para personalizar el aprendizaje, mejorar la eficiencia administrativa, impulsar la investigación y fomentar la colaboración en línea. Implica adaptar contenidos y métodos de enseñanza según las necesidades individuales de los estudiantes, automatizar tareas administrativas, acelerar el análisis de datos científicos, y facilitar la interacción y el trabajo en proyectos entre estudiantes y profesores."
-        },
-        {
-          "termino": "Red estudiantil colaborativa en la nube",
-          "descripcion": "Uso de plataformas de tecnología en la nube que permiten a los estudiantes trabajar juntos en proyectos de manera más eficiente y efectiva, independientemente de su ubicación geográfica."
-        },
-        {
-          "termino": "Desarrollo de biología sintética y la ingeniería de tejidos para la creación de órganos artificiales",
-          "descripcion": "Refiere al uso de principios y técnicas de la biología sintética y la ingeniería de tejidos para diseñar y fabricar órganos artificiales que puedan replicar las funciones de órganos humanos naturales."
+          "termino": "Innovaciones en medicina con aplicaciones de la ingeniería genética",
+          "descripcion": "Refiere al avance y aplicación de tecnologías que permiten modificar el ADN de organismos vivos, incluyendo humanos, con alta precisión. En medicina, la edición genética se utiliza para corregir mutaciones que causan enfermedades, mejorar la resistencia a patologías y optimizar terapias genéticas."
         },
         {
           "termino": "Neurotecnologías para enfermedades degenerativas",
           "descripcion": "Se refiere al desarrollo y aplicación de tecnologías avanzadas diseñadas para diagnosticar, monitorear, tratar o mitigar los efectos de enfermedades degenerativas del sistema nervioso, como el Alzheimer, el Parkinson o la esclerosis múltiple."
         },
         {
+          "termino": "Optimización en el desarrollo de vacunas contra enfermedades altamente transmisibles",
+          "descripcion": "Posibilidad de optimizar la investigación y el desarrollo de nuevas vacunas contra enfermedades infecciosas, incluyendo virus y bacterias, gracias a los avances tecnológicos y científicos en el campo de la biotecnología y la genómica."
+        },
+        {
+          "termino": "Red estudiantil colaborativa en la nube",
+          "descripcion": "Uso de plataformas de tecnología en la nube que permiten a los estudiantes trabajar juntos en proyectos de manera más eficiente y efectiva, independientemente de su ubicación geográfica."
+        },
+        {
+          "termino": "Transformación de la educación superior con IA",
+          "descripcion": "Posibilidad de aplicar la Inteligencia Artificial en instituciones educativas de nivel universitario para personalizar el aprendizaje, mejorar la eficiencia administrativa, impulsar la investigación y fomentar la colaboración en línea. Implica adaptar contenidos y métodos de enseñanza según las necesidades individuales de los estudiantes, automatizar tareas administrativas, acelerar el análisis de datos científicos, y facilitar la interacción y el trabajo en proyectos entre estudiantes y profesores."
+        },
+        {
           "termino": "Tratamiento de enfermedades mediante el uso de la nanotecnología",
           "descripcion": "Se refiere al empleo de materiales y dispositivos a escala nanométrica para diagnosticar, prevenir y tratar enfermedades. La nanotecnología en medicina puede incluir el diseño de nanopartículas que actúan como vehículos para administrar medicamentos de manera más eficaz y específica a las células enfermas, minimizando los efectos secundarios en tejidos sanos."
+        },
+        {
+          "termino": "Urbanización intermedia y policéntrica",
+          "descripcion": "Modelo de desarrollo urbano que promueve el fortalecimiento de ciudades intermedias y la distribución territorial equilibrada de funciones económicas, sociales y administrativas."
         }
       ]
     },
@@ -103,12 +111,16 @@
           "descripcion": "Amenaza de agotamiento, escasez o degradación de recursos esenciales como agua, alimentos, suelo, energía y biodiversidad, debido a factores como el crecimiento poblacional, la urbanización descontrolada, la agricultura insostenible, el cambio climático y la explotación irresponsable de recursos."
         },
         {
-          "termino": "Crisis en la gestión de residuos",
-          "descripcion": "Falta de capacidad y/o infraestructura para gestionar adecuadamente los residuos generados por la población y las empresas. Esto puede incluir la acumulación de residuos en vertederos abiertos, la quema de residuos a cielo abierto y la falta de tratamiento y disposición adecuada de residuos peligrosos."
+          "termino": "Crisis energética",
+          "descripcion": "Riesgo de interrupciones prolongadas en el suministro de energía debido a la dependencia de fuentes no renovables, conflictos geopolíticos, vulnerabilidades en la infraestructura energética, falta de inversión en energías limpias o desequilibrios entre la oferta y la demanda."
         },
         {
           "termino": "Daños ambientales causados por el hombre a gran escala",
           "descripcion": "Fracaso en prevenir grandes daños y desastres causados por el hombre (como derrames de petróleo, contaminación radiactiva o deforestación), que generan daños a las personas, la infraestructura, la propiedad, la actividad económica y el ambiente."
+        },
+        {
+          "termino": "Desertificación en zonas agrícolas",
+          "descripcion": "Proceso de degradación progresiva del suelo en áreas agrícolas, provocado por la sobreexplotación de los recursos, la deforestación, el uso inadecuado de técnicas agrícolas y los efectos del cambio climático, lo cual reduce la productividad de la tierra, aumenta la inseguridad alimentaria y contribuye a la migración forzada."
         },
         {
           "termino": "Fenómenos naturales y meteorológicos extremos",
@@ -116,10 +128,18 @@
         },
         {
           "termino": "Fracaso de la acción climática",
-          "descripcion": "ncapacidad o la insuficiencia tanto a nivel global como a nivel país para abordar de manera eficaz el desafío del cambio climático. Esto conlleva la falta de implementación de políticas y medidas para reducir las emisiones de gases de efecto invernadero, adaptarse a los efectos del cambio climático y limitar el calentamiento global."
+          "descripcion": "Incapacidad o la insuficiencia tanto a nivel global como a nivel país para abordar de manera eficaz el desafío del cambio climático. Esto conlleva la falta de implementación de políticas y medidas para reducir las emisiones de gases de efecto invernadero, adaptarse a los efectos del cambio climático y limitar el calentamiento global."
+        },
+        {
+          "termino": "Incremento de la contaminación del aire en áreas urbanas",
+          "descripcion": "Aumento sostenido de la concentración de contaminantes atmosféricos (como material particulado, dióxido de nitrógeno, ozono troposférico, entre otros) en zonas urbanas, generado por la actividad vehicular, industrial y doméstica."
         }
       ],
       "oportunidades": [
+        {
+          "termino": "Aprovechamiento de la energía eléctrica en el sector automotriz",
+          "descripcion": "Desarrollo y uso de tecnologías que permiten la electrificación de vehículos y medios de transporte, como automóviles, autobuses, trenes, bicicletas y barcos. Esta oportunidad incluye la implementación de infraestructuras para la carga de baterías, la reducción de los costos de producción y adquisición de vehículos eléctricos, y la mejora de la eficiencia energética y la reducción de emisiones de gases de efecto invernadero en el sector del transporte."
+        },
         {
           "termino": "Desarrollo de energía limpia de fuentes naturales",
           "descripcion": "Posibilidad de utilizar fuentes renovables y sostenibles de energía, como la solar, la eólica, la hidráulica, la geotérmica y la biomasa, para generar electricidad y reducir la dependencia de combustibles fósiles que contribuyen al cambio climático y la contaminación del medioambiente."
@@ -133,16 +153,16 @@
           "descripcion": "Promoción de prácticas agrícolas sostenibles y respetuosas con el medio ambiente a través del uso de fertilizantes naturales. Los fertilizantes naturales son aquellos que se producen a partir de recursos naturales, como estiércol, compost, algas, lodos de depuradoras, entre otros. Estos fertilizantes no contienen productos químicos tóxicos ni generan residuos peligrosos para el medioambiente, lo que los hace más sostenibles y seguros para el uso en la agricultura."
         },
         {
-          "termino": "Aprovechamiento de la energía eléctrica en el sector automotriz",
-          "descripcion": "Desarrollo y uso de tecnologías que permiten la electrificación de vehículos y medios de transporte, como automóviles, autobuses, trenes, bicicletas y barcos. Esta oportunidad incluye la implementación de infraestructuras para la carga de baterías, la reducción de los costos de producción y adquisición de vehículos eléctricos, y la mejora de la eficiencia energética y la reducción de emisiones de gases de efecto invernadero en el sector del transporte."
+          "termino": "Desarrollo de tecnología de alerta temprana de desastres naturales",
+          "descripcion": "Creación e implementación de sistemas tecnológicos que permiten la detección, monitoreo y comunicación temprana de eventos naturales extremos como inundaciones, terremotos, deslizamientos de tierra o tsunamis."
         },
         {
           "termino": "Implementación de tecnología para el uso eficiente del agua",
           "descripcion": "Uso de tecnologías avanzadas para optimizar la gestión del agua y reducir su consumo. La implementación de tecnologías eficientes en el uso del agua puede permitir una mejor gestión y conservación de los recursos hídricos, reducir los costos de operación, mejorar la calidad del agua, y aumentar la sostenibilidad de las actividades económicas que dependen del uso del agua."
         },
         {
-          "termino": "Mayor inversión en construcciones resilientes",
-          "descripcion": "Aumento de inversiones dirigidas a fortalecer las viviendas e infraestructuras de las ciudades como hospitales, centros educativos, entre otros, para así incrementar su resiliencia a eventos climáticos extremos."
+          "termino": "Impulso de infraestructura verde urbana como motor de sostenibilidad",
+          "descripcion": "Promoción del desarrollo de espacios urbanos que integran soluciones basadas en la naturaleza, como techos y muros verdes, parques urbanos, sistemas de drenaje sostenibles y corredores ecológicos. Estas infraestructuras mejoran la calidad del aire, reducen el efecto de isla de calor, fortalecen la biodiversidad urbana, y contribuyen a la adaptación y mitigación del cambio climático en las ciudades."
         },
         {
           "termino": "Restauración de bosques para la industria maderera sostenible",
@@ -151,14 +171,6 @@
         {
           "termino": "Reutilización de las emisiones de carbono",
           "descripcion": "Posibilidad de capturar el dióxido de carbono (CO₂) emitido por procesos industriales y utilizarlo para crear productos de valor añadido, como materiales de construcción, combustibles sintéticos y productos químicos."
-        },
-        {
-          "termino": "Expansión de la economía regenerativa",
-          "descripcion": "Refiere al crecimiento de prácticas y modelos económicos que no solo buscan minimizar el impacto ambiental, sino que activamente restauran y mejoran los ecosistemas y las comunidades. Esto incluye tecnologías limpias, agricultura regenerativa y negocios circulares, promoviendo la resiliencia y la equidad a largo plazo."
-        },
-        {
-          "termino": "Desarrollo de tecnología de alerta temprana de desastres naturales",
-          "descripcion": "Refiere a la creación y mejora de sistemas tecnológicos diseñados para detectar y advertir sobre la inminencia de desastres naturales, como terremotos, tsunamis, huracanes o inundaciones, con suficiente anticipación para permitir la evacuación y otras medidas de mitigación. Estas tecnologías pueden incluir sensores sísmicos, radares meteorológicos, satélites y sistemas de comunicación avanzada."
         }
       ]
     },
@@ -166,82 +178,78 @@
       "color": "#03A9F4",
       "riesgos": [
         {
-          "termino": "Exacerbación de ciberespionaje",
-          "descripcion": "Aumento significativo en la cantidad y la complejidad de los ataques cibernéticos destinados a obtener información confidencial o secretos comerciales. Estos ataques pueden ser llevados a cabo por actores estatales o no estatales, y pueden tener graves consecuencias para las víctimas."
-        },
-        {
-          "termino": "Fallo de la infraestructura de telecomunicaciones",
-          "descripcion": "Interrupción del funcionamiento de infraestructura tecnológica crítica, como Internet, satélites y redes de datos, causando una disrupción ampliamente extendida."
-        },
-        {
-          "termino": "Proliferación del Deep Fake",
-          "descripcion": "Refiere al aumento y diseminación de contenido audiovisual manipulado o generado por inteligencia artificial que imita de manera convincente a personas reales diciendo o haciendo cosas que nunca dijeron o hicieron. Esta tecnología puede utilizarse en campos como el entretenimiento y la educación, pero también presenta riesgos significativos al ser empleada para la desinformación, el fraude y la manipulación de la opinión pública."
-        },
-        {
-          "termino": "Ruptura de ciberseguridad",
-          "descripcion": "Posibilidad de que los sistemas informáticos y tecnológicos del país sufran ataques cibernéticos y/o fallas en su seguridad, lo que podría generar la interrupción de servicios esenciales y la exposición de información confidencial."
+          "termino": "Concentración del poder tecnológico",
+          "descripcion": "Refiere a la acumulación del control sobre tecnologías clave, infraestructuras y datos por un número reducido de empresas o entidades, lo cual puede limitar la competencia y la innovación en el sector. Esta concentración a menudo resulta en un mercado dominado por unos pocos actores grandes, que pueden influir en estándares tecnológicos, precios, y en el acceso al mercado para nuevas empresas."
         },
         {
           "termino": "Dependencia excesiva de la tecnología y la automatización",
           "descripcion": "Posibilidad de que la creciente dependencia de la tecnología y la automatización en el lugar de trabajo pueda tener consecuencias negativas en los trabajadores y en la economía en general."
         },
         {
-          "termino": "Fallo en la supervisión y regulación de la implementación de la IA",
-          "descripcion": "Posibilidad de que la implementación de la inteligencia artificial (IA) no esté adecuadamente supervisada o regulada, lo que puede llevar a consecuencias no deseadas o incluso peligrosas. Esto puede incluir el mal uso de la IA por parte de actores malintencionados, la falta de transparencia en la toma de decisiones de los sistemas de IA y la falta de responsabilidad por los resultados de los sistemas de IA."
+          "termino": "Exacerbación del ciberespionaje",
+          "descripcion": "Aumento significativo en la cantidad y la complejidad de los ataques cibernéticos destinados a obtener información confidencial o secretos comerciales. Estos ataques pueden ser llevados a cabo por actores estatales o no estatales, y pueden tener graves consecuencias para las víctimas."
+        },
+        {
+          "termino": "Fallos en servicios o infraestructura de TIC",
+          "descripcion": "Interrupción del funcionamiento de infraestructura tecnológica crítica, como Internet, satélites y redes de datos, causando una disrupción ampliamente extendida."
+        },
+        {
+          "termino": "Incremento del uso malicioso de deepfakes",
+          "descripcion": "Refiere al aumento y diseminación de contenido audiovisual manipulado o generado por inteligencia artificial que imita de manera convincente a personas reales diciendo o haciendo cosas que nunca dijeron o hicieron. Esta tecnología puede utilizarse en campos como el entretenimiento y la educación, pero también presenta riesgos significativos al ser empleada para la desinformación, el fraude y la manipulación de la opinión pública."
         },
         {
           "termino": "Pérdida masiva de empleos por la automatización en los procesos productivos",
           "descripcion": "Posibilidad de que la automatización y la robótica en la producción y los servicios generen una disrupción significativa en el mercado laboral, lo que podría llevar a una pérdida masiva de empleos en varios sectores. Esto podría tener consecuencias económicas y sociales negativas, como el aumento del desempleo, la reducción de los ingresos y la creciente desigualdad, entre otros factores."
         },
         {
-          "termino": "Proliferación de armas autónomas",
-          "descripcion": "Posibilidad de que los sistemas autónomos de armamento sean desarrollados y utilizados por actores malintencionados para fines violentos, lo que podría tener consecuencias catastróficas en la seguridad internacional y el bienestar social. Esto se debe a que estos sistemas tienen la capacidad de tomar decisiones de manera autónoma, sin la intervención humana, lo que hace que sean difíciles de controlar y pueden actuar de manera impredecible."
-        },
-        {
-          "termino": "Sesgos y discriminación por implementación de IA en procesos cotidianos",
-          "descripcion": "Posibilidad de que los sistemas de inteligencia artificial (IA) puedan producir resultados sesgados o discriminatorios al ser implementados en procesos cotidianos, como la selección de candidatos para empleos o la evaluación de solicitudes de préstamos."
-        },
-        {
-          "termino": "Concentración del poder tecnológico",
-          "descripcion": "Refiere a la acumulación del control sobre tecnologías clave, infraestructuras y datos por un número reducido de empresas o entidades, lo cual puede limitar la competencia y la innovación en el sector. Esta concentración a menudo resulta en un mercado dominado por unos pocos actores grandes, que pueden influir en estándares tecnológicos, precios, y en el acceso al mercado para nuevas empresas."
+          "termino": "Ruptura de la ciberseguridad",
+          "descripcion": "Posibilidad de que los sistemas informáticos y tecnológicos del país sufran ataques cibernéticos y/o fallas en su seguridad, lo que podría generar la interrupción de servicios esenciales y la exposición de información confidencial."
         }
       ],
       "oportunidades": [
         {
-          "termino": "Desarrollo de tecnologías para realidades no físicas",
+          "termino": "Desarrollo de Organizaciones Exponenciales (ExO) como nuevo modelo de negocio",
+          "descripcion": "Refiere al surgimiento y adopción de un modelo de negocio que se caracteriza por su capacidad para escalar su impacto de manera significativamente más rápida y eficiente que las organizaciones tradicionales, gracias al aprovechamiento de tecnologías emergentes y nuevas metodologías organizativas. Las ExO se centran en la flexibilidad, la adaptabilidad y la utilización de recursos externos para fomentar la innovación y el crecimiento."
+        },
+        {
+          "termino": "Desarrollo de tecnologías para la implementación de realidades no físicas",
           "descripcion": "Creación de herramientas tecnológicas que permitan la creación de experiencias virtuales o aumentadas en diferentes ámbitos, como la educación, el entretenimiento, la publicidad, entre otros. Esto puede impulsar el desarrollo de nuevas empresas y empleos en el sector tecnológico, así como mejorar la eficiencia y la calidad de diferentes procesos y servicios."
+        },
+        {
+          "termino": "Expansión de la automatización y robótica en los servicios de asistencia personal y procesos",
+          "descripcion": "Refiere al crecimiento en el uso de tecnologías de automatización y robots en la prestación de servicios de asistencia personal y en la ejecución de diversos procesos. Esta expansión implica la incorporación de dispositivos y sistemas automatizados para realizar tareas que tradicionalmente requerían intervención humana, como la atención al cliente, cuidado de la salud, y administración de tareas domésticas o administrativas."
         },
         {
           "termino": "Expansión de la red colaborativa de datos abiertos para IA",
           "descripcion": "Creación de una plataforma en línea para el intercambio seguro y accesible de datos abiertos entre organizaciones y comunidades permitirá mejorar la eficacia de los algoritmos de inteligencia artificial (IA). Además, fomentará la colaboración y transparencia en el intercambio de datos, lo que permitirá la creación de modelos de IA más precisos y confiables que podrían tener un impacto positivo en áreas como la medicina, la industria y la agricultura."
         },
         {
-          "termino": "Expansión de la automatización y robótica en los servicios de asistencia personal y procesos Refiere al",
-          "descripcion": "Refiere al crecimiento en el uso de tecnologías de automatización y robots en la prestación de servicios de asistencia personal y en la ejecución de diversos procesos. Esta expansión implica la incorporación de dispositivos y sistemas automatizados para realizar tareas que tradicionalmente requerían intervención humana, como la atención al cliente, cuidado de la salud, y administración de tareas domésticas o administrativas."
+          "termino": "Laboratorios de innovación territorial",
+          "descripcion": "Espacios físicos o virtuales donde actores locales (gobiernos, empresas, academia y sociedad civil) colaboran para experimentar, diseñar, validar y escalar soluciones tecnológicas adaptadas a los desafíos y potencialidades del territorio."
         },
         {
-          "termino": "Seguridad de las transacciones digitales",
-          "descripcion": "Desarrollo de tecnologías y medidas que protejan de manera efectiva la información y los datos en línea, especialmente durante el proceso de transacciones financieras y comerciales. Esto puede incluir la implementación de sistemas de encriptación avanzados, autenticación multifactorial, biometría y tecnologías de reconocimiento facial."
+          "termino": "Mayor adopción de la Agricultura 4.0",
+          "descripcion": "Se refiere a la transformación tecnológica del sector agrícola mediante la integración de tecnologías digitales y automatizadas, inspirada en los principios de la Industria 4.0. Este desarrollo incluye el uso de sensores IoT (Internet de las Cosas), drones, robótica, inteligencia artificial y análisis de datos para optimizar procesos como la siembra, irrigación, fertilización y cosecha."
+        },
+        {
+          "termino": "Mayor adopción del cloud computing en procesos industriales",
+          "descripcion": "Se refiere a la integración creciente de la computación en la nube en la industria para optimizar y automatizar procesos de producción y gestión. Este desarrollo permite a las empresas acceder a recursos informáticos escalables y a demanda, como almacenamiento de datos, procesamiento y aplicaciones de software, sin la necesidad de infraestructura física costosa en sus instalaciones."
         },
         {
           "termino": "Potenciación e implementación de la IA en la generación de nuevas tecnologías",
           "descripcion": "Posibilidad de utilizar la IA en el desarrollo de innovaciones tecnológicas y la mejora de procesos existentes. Con la creciente cantidad de datos disponibles y la capacidad de procesamiento de la computación en la nube, la IA se ha convertido en una herramienta poderosa para descubrir patrones y tendencias en los datos que de otra manera serían difíciles de detectar."
         },
         {
-          "termino": "Potenciación del aprendizaje con blockchain",
+          "termino": "Potencialización del aprendizaje con blockchain",
           "descripcion": "Aplicación de la tecnología blockchain en la educación con el fin de potenciar la calidad y la eficiencia del proceso de enseñanza-aprendizaje. Mediante la tecnología blockchain se puede establecer registros seguros, inmutables y verificables de los logros académicos y las credenciales de los estudiantes, lo cual simplifica el proceso de evaluación y reconocimiento de títulos y certificaciones."
         },
         {
-          "termino": "Desarrollo del cloud computing en procesos industriales",
-          "descripcion": "Se refiere a la integración creciente de la computación en la nube en la industria para optimizar y automatizar procesos de producción y gestión. Este desarrollo permite a las empresas acceder a recursos informáticos escalables y a demanda, como almacenamiento de datos, procesamiento y aplicaciones de software, sin la necesidad de infraestructura física costosa en sus instalaciones."
+          "termino": "Seguridad de las transacciones digitales",
+          "descripcion": "Desarrollo de tecnologías y medidas que protejan de manera efectiva la información y los datos en línea, especialmente durante el proceso de transacciones financieras y comerciales. Esto puede incluir la implementación de sistemas de encriptación avanzados, autenticación multifactorial, biometría y tecnologías de reconocimiento facial"
         },
         {
-          "termino": "Desarrollo de Organizaciones Exponenciales (ExO) como nuevo modelo de negocio",
-          "descripcion": "Refiere al surgimiento y adopción de un modelo de negocio que se caracteriza por su capacidad para escalar su impacto de manera significativamente más rápida y eficiente que las organizaciones tradicionales, gracias al aprovechamiento de tecnologías emergentes y nuevas metodologías organizativas. Las ExO se centran en la flexibilidad, la adaptabilidad y la utilización de recursos externos para fomentar la innovación y el crecimiento."
-        },
-        {
-          "termino": "Desarrollo de la Agricultura 4.0",
-          "descripcion": "Se refiere a la transformación tecnológica del sector agrícola mediante la integración de tecnologías digitales y automatizadas, inspirada en los principios de la Industria 4.0. Este desarrollo incluye el uso de sensores IoT (Internet de las Cosas), drones, robótica, inteligencia artificial y análisis de datos para optimizar procesos como la siembra, irrigación, fertilización y cosecha."
+          "termino": "Transformación digital de las mypes",
+          "descripcion": "Proceso mediante el cual las micro y pequeñas empresas incorporan tecnologías digitales en sus operaciones, producción, comercialización y relación con los clientes. Esta transformación permite mejorar la eficiencia, ampliar mercados, reducir costos y adaptarse a nuevas demandas del entorno competitivo."
         }
       ]
     },
@@ -249,98 +257,94 @@
       "color": "#FFC107",
       "riesgos": [
         {
-          "termino": "Bancarrota masiva de empresas",
-          "descripcion": "Aumento sistemático y virulento de la quiebra de empresas del sector formal de la economía."
-        },
-        {
           "termino": "Crisis bancaria y financiera",
           "descripcion": "Posibilidad de que el sistema bancario y financiero de un país o región experimente una disrupción significativa debido a problemas financieros, económicos o políticos. Esto puede llevar a una falta de confianza en el sistema bancario y financiero, y puede tener graves consecuencias económicas y sociales."
         },
         {
-          "termino": "Crisis fiscales en grandes economías",
-          "descripcion": "Niveles excesivos de deuda que generan crisis de deuda soberana y/o crisis de liquidez, lo cual limita la capacidad de los estados de proveer bienes públicos o promover el crecimiento"
+          "termino": "Crisis del sector agrícola",
+          "descripcion": "Deterioro sostenido de la productividad, rentabilidad y sostenibilidad del sector agrícola, como resultado de factores climáticos extremos, degradación del suelo, aumento de costos de producción, baja tecnificación, falta de acceso a financiamiento y mercados, y políticas públicas ineficaces."
         },
         {
-          "termino": "Fuga de capitales extrema por perspectivas financieras negativas",
-          "descripcion": "Las expectativas (pesimistas u optimistas) de los participantes en los mercados con respecto al desempeño de la economía en su conjunto; un escenario pesimista deteriora el entorno necesario para el aumento de las inversiones."
+          "termino": "Crisis fiscales en grandes economías",
+          "descripcion": "Niveles excesivos de deuda que generan crisis de deuda soberana y/o crisis de liquidez, lo cual limita la capacidad de los estados de proveer bienes públicos o promover el crecimiento."
+        },
+        {
+          "termino": "Disminución sostenida de la inversión extranjera directa",
+          "descripcion": "Reducción prolongada en los flujos de capital foráneo orientados a la producción, debido a factores como la incertidumbre política, el deterioro del clima de negocios, barreras regulatorias, o conflictos sociales. Esto limita el acceso a tecnologías, financiamiento y generación de empleo de calidad, afectando el crecimiento económico sostenido."
+        },
+        {
+          "termino": "Fortalecimiento de las economías ilegales",
+          "descripcion": "Se refiere al aumento y expansión de actividades económicas que violan la ley, como el comercio de bienes y servicios prohibidos, la evasión fiscal, el lavado de dinero y la corrupción. Esta proliferación puede estar impulsada por la falta de regulación efectiva, la debilidad en la aplicación de la ley, y las altas ganancias potenciales de tales actividades."
+        },
+        {
+          "termino": "Intensificación de barreras arancelarias por tensiones internacionales",
+          "descripcion": "Incremento de medidas proteccionistas, como aranceles o cuotas a las importaciones/exportaciones, producto de disputas geopolíticas o comerciales entre países. Estas barreras afectan el comercio global, reducen la competitividad de las economías dependientes de exportaciones y pueden generar encarecimiento de insumos, desabastecimiento y menor crecimiento."
         },
         {
           "termino": "Interrupción de las cadenas de suministro",
           "descripcion": "Paralización continua y prolongada del conjunto de actividades, instalaciones y medios de distribución que son necesarios para desarrollar el proceso de comercialización de bienes en las economías del mundo."
         },
         {
-          "termino": "Paralización prolongada de la producción minera por conflictos socialess",
+          "termino": "Paralización prolongada de la producción minera por conflictos sociales",
           "descripcion": "Posibilidad de que la producción minera se detenga de forma permanente debido a conflictos sociales y ambientales. Esto puede suceder cuando las comunidades locales, los grupos ambientalistas y otros actores sociales se oponen a la explotación de recursos naturales por parte de las empresas mineras debido a preocupaciones por el impacto ambiental, la salud pública y los derechos de las comunidades locales"
         },
         {
-          "termino": "Escasez de mano de obra",
-          "descripcion": "Se refiere a la situación en la que la demanda de trabajadores en ciertas industrias o regiones supera la oferta disponible de empleados calificados y no calificados. Esto puede deberse a factores como cambios demográficos, falta de habilidades técnicas específicas en la fuerza laboral, condiciones de trabajo poco atractivas, o una rápida expansión económica que excede la capacidad de formación de trabajadores."
+          "termino": "Recesión prolongada de la economía",
+          "descripcion": "Etapa sostenida de contracción de la actividad económica caracterizada por una caída continua del PBI, el empleo, la inversión y el consumo. Una recesión prolongada puede debilitar la confianza empresarial y del consumidor, agravar la pobreza y la desigualdad, y limitar la capacidad del Estado para implementar políticas contracíclicas efectivas."
         },
         {
-          "termino": "Shock en los precios de los hidrocarburos",
-          "descripcion": "Posibilidad de una fluctuación significativa y abrupta en los precios de los hidrocarburos (petróleo, gas natural, entre otros). Este riesgo puede ser causado por diversos factores, como la variación en la oferta y la demanda de hidrocarburos, la volatilidad del mercado financiero, la inestabilidad política en las regiones productoras de hidrocarburos, entre otros."
-        },
-        {
-          "termino": "Prolongada recesión",
-          "descripcion": "Depresión de las actividades económicas en general, que tiende a ser prolongada en diversas economías del mundo, especialmente en aquellas más importantes (EE. UU., Europa, China, etc.), y cuyas repercusiones retroalimentan el fenómeno."
-        },
-        {
-          "termino": "Crisis energética",
-          "descripcion": "Refiere a una situación en la que la oferta de energía es insuficiente para satisfacer la demanda. Esta crisis puede ser resultado de factores como escasez de recursos energéticos, fallas en la infraestructura de suministro, conflictos geopolíticos que afectan la producción y el transporte de energía, o políticas inadecuadas."
-        },
-        {
-          "termino": "Proliferación de la actividad económica ilícita",
-          "descripcion": "Se refiere al aumento y expansión de actividades económicas que violan la ley, como el comercio de bienes y servicios prohibidos, la evasión fiscal, el lavado de dinero y la corrupción. Esta proliferación puede estar impulsada por la falta de regulación efectiva, la debilidad en la aplicación de la ley, y las altas ganancias potenciales de tales actividades."
+          "termino": "Rezago competitivo por baja innovación tecnológica en sectores productivos",
+          "descripcion": "Pérdida de competitividad de los sectores económicos debido a la limitada adopción de tecnologías modernas, baja inversión en investigación y desarrollo (I+D), y escasa articulación con los sistemas de innovación. Este rezago reduce la productividad, limita la diversificación productiva y restringe el acceso a mercados de mayor valor agregado, generando dependencia de actividades de bajo rendimiento."
         }
       ],
       "oportunidades": [
         {
-          "termino": "Optimización de inversiones mediante IA",
-          "descripcion": "Uso de la inteligencia artificial (IA) para analizar grandes cantidades de datos y obtener información valiosa que puede ayudar a los inversores a tomar decisiones informadas y optimizar su cartera de inversiones."
+          "termino": "Blockchain para la trazabilidad de los productos regionales",
+          "descripcion": "Uso de la tecnología blockchain para garantizar la transparencia en la cadena de suministro de productos regionales, desde su origen hasta su destino final. El blockchain es una tecnología que permite la creación de registros digitales seguros y descentralizados, lo que significa que cualquier información registrada en él es inmutable y no puede ser alterada."
         },
         {
-          "termino": "Impulso financiero a inversiones verdes",
+          "termino": "Desarrollo de parques industriales ecológicos",
+          "descripcion": "Promoción de espacios industriales diseñados bajo principios de sostenibilidad, donde empresas colaboran para gestionar eficientemente recursos como agua, energía y residuos. Estos parques industriales integran tecnologías limpias, reciclaje, infraestructura verde y planificación territorial inteligente, contribuyendo al crecimiento económico con menor impacto ambiental y mayor competitividad."
+        },
+        {
+          "termino": "Desarrollo de redes internacionales de producción",
+          "descripcion": "Expansión y fortalecimiento de redes globales de manufactura y ensamblaje entre empresas y países, con enfoque en la especialización y la integración eficiente de procesos productivos. Esta oportunidad permite aumentar la participación en cadenas globales de valor, atraer inversión extranjera, transferir tecnología y mejorar capacidades locales para competir en mercados internacionales."
+        },
+        {
+          "termino": "Gran impulso del turismo verde",
+          "descripcion": "Se refiere a la expansión significativa y estratégica del turismo que se enfoca en la sostenibilidad ambiental y la conservación de la naturaleza. Este tipo de turismo promueve prácticas que minimizan el impacto negativo en el medio ambiente y las comunidades locales, al tiempo que fomenta la educación ambiental de los visitantes."
+        },
+        {
+          "termino": "Impulso de inversiones en infraestructura estratégica",
+          "descripcion": "Fomento de inversiones en obras de infraestructura clave para el desarrollo económico, como redes de transporte multimodal, energía, telecomunicaciones, puertos, aeropuertos y conectividad digital. Estas inversiones mejoran la competitividad, reducen costos logísticos, integran mercados regionales y atraen nuevas actividades productivas."
+        },
+        {
+          "termino": "Impulso financiero a inversiones verdes (Finanzas sostenibles)",
           "descripcion": "Posibilidad de fomentar la inversión en proyectos y tecnologías que promuevan la sostenibilidad y la mitigación del cambio climático, como la energía renovable, la eficiencia energética, la movilidad sostenible, entre otros. De esta manera, se busca no solo reducir las emisiones de gases de efecto invernadero, sino también crear empleo y contribuir al desarrollo sostenible del país."
+        },
+        {
+          "termino": "Integración económica a nivel de clústeres regionales",
+          "descripcion": "Fortalecimiento de redes de empresas, instituciones y actores económicos que comparten un territorio y una especialización productiva común, generando sinergias que mejoran la productividad, la innovación y el desarrollo territorial. Esta integración fomenta la competitividad local, el desarrollo de proveedores, la articulación con universidades y centros tecnológicos, y una mejor inserción en mercados nacionales e internacionales."
         },
         {
           "termino": "Mayor demanda por minerales alternativos",
           "descripcion": "Extracción de minerales menos comunes, pero de alto valor, como el litio, uranio, cobalto y níquel, para atender la demanda futura previsible de productos basados en nuevos materiales y tecnologías."
         },
         {
-          "termino": "Proliferación de inversiones (y desarrollo) en sector minería e hidrocarburos",
+          "termino": "Nuevas rutas del comercio internacional",
+          "descripcion": "Se refiere a la creación o utilización de itinerarios alternativos o adicionales para el movimiento transfronterizo de bienes, que pueden surgir debido a cambios geopolíticos, económicos o tecnológicos. Estas rutas pueden incluir nuevas conexiones marítimas, terrestres o aéreas y están diseñadas para optimizar la eficiencia logística, reducir costos y tiempos de envío, y responder a las demandas cambiantes del mercado global."
+        },
+        {
+          "termino": "Optimización de inversiones mediante IA",
+          "descripcion": "Uso de la inteligencia artificial (IA) para analizar grandes cantidades de datos y obtener información valiosa que puede ayudar a los inversores a tomar decisiones informadas y optimizar su cartera de inversiones."
+        },
+        {
+          "termino": "Proliferación de inversiones y desarrollo en el sector minería e hidrocarburos",
           "descripcion": "Potencial de crecimiento económico y desarrollo social que puede generar la inversión en la explotación de recursos minerales e hidrocarburos en una región o localidad determinada. Esta inversión puede atraer empleos y mejorar la infraestructura y los servicios públicos, lo que a su vez puede generar un impacto positivo en la calidad de vida de las comunidades locales."
-        },
-        {
-          "termino": "Blockchain para la trazabilidad de los productos regionales",
-          "descripcion": "Uso de la tecnología blockchain para garantizar la transparencia en la cadena de suministro de productos regionales, desde su origen hasta su destino final. El blockchain es una tecnología que permite la creación de registros digitales seguros y descentralizados, lo que significa que cualquier información registrada en él es inmutable y no puede ser alterada."
-        },
-        {
-          "termino": "Unificación de mercados financieros",
-          "descripcion": "Convergencia y armonización de los mercados financieros de diferentes regiones o países en un mercado más grande. La oportunidad se basa en la idea de que la creación de un mercado financiero unificado puede mejorar la eficiencia y la transparencia en la asignación de"
         },
         {
           "termino": "Universalización de la economía digital",
           "descripcion": "Impacto de la tecnología digital en la economía, esto es, la digitalización de los modelos de producción y consumo, cambiando así las formas de comercializar bienes y servicios."
-        },
-        {
-          "termino": "Nuevas rutas (internacionales) para el transporte de mercancías",
-          "descripcion": "Se refiere a la creación o utilización de itinerarios alternativos o adicionales para el movimiento transfronterizo de bienes, que pueden surgir debido a cambios geopolíticos, económicos o tecnológicos. Estas rutas pueden incluir nuevas conexiones marítimas, terrestres o aéreas y están diseñadas para optimizar la eficiencia logística, reducir costos y tiempos de envío, y responder a las demandas cambiantes del mercado global."
-        },
-        {
-          "termino": "Gran impulso del Turismo verde o Ecoturismo",
-          "descripcion": "Se refiere a la expansión significativa y estratégica del turismo que se enfoca en la sostenibilidad ambiental y la conservación de la naturaleza. Este tipo de turismo promueve prácticas que minimizan el impacto negativo en el medio ambiente y las comunidades locales, al tiempo que fomenta la educación ambiental de los visitantes."
-        },
-        {
-          "termino": "Desarrollo de Parques Industriales Tecnoecológicos",
-          "descripcion": "Se refiere a la creación y expansión de zonas industriales diseñadas para albergar empresas y organizaciones centradas en tecnologías avanzadas y sostenibilidad ambiental. Estos parques combinan infraestructuras de alta tecnología con prácticas ecológicamente responsables, como el uso eficiente de energías renovables, gestión de residuos avanzada y sistemas de construcción sostenible. Su objetivo es fomentar la innovación y el desarrollo económico mientras minimizan el impacto ambiental."
-        },
-        {
-          "termino": "Desarrollo de redes internacionales de producción",
-          "descripcion": "Se refiere al establecimiento y expansión de sistemas de producción que involucran a múltiples países, facilitados por la globalización y la integración económica. Estas redes permiten a las empresas descomponer sus procesos de producción en distintas etapas y ubicar cada una en diferentes países, según donde se maximicen las ventajas como costos laborales más bajos, acceso a materias primas, tecnologías especializadas, o incentivos fiscales."
-        },
-        {
-          "termino": "Integración económica a nivel de clústeres regionales",
-          "descripcion": "Refiere al proceso mediante el cual empresas y organizaciones en una región geográfica específica colaboran y coordinan actividades para mejorar su competitividad y eficiencia. Estos clústeres se forman en torno a industrias o sectores específicos, como la tecnología, la manufactura o la agricultura, y pueden incluir empresas, proveedores, instituciones de investigación y entidades gubernamentales."
         }
       ]
     },
@@ -348,8 +352,24 @@
       "color": "#9C27B0",
       "riesgos": [
         {
-          "termino": "Proliferación de confrontaciones geopolíticas",
-          "descripcion": "Intervenciones militares bilaterales o multilaterales entre estados con consecuencias globales y/o conflictos entre estados utilizando instrumentos económicos (como controles comerciales, barreras no arancelarias y/o medidas monetarias) para consolidar su influencia."
+          "termino": "Crisis de la gobernabilidad y del sistema democrático",
+          "descripcion": "Se refiere a una situación en la que las instituciones y procesos democráticos enfrentan desafíos significativos que amenazan su funcionamiento y legitimidad. Esto puede incluir la erosión de las normas democráticas, corrupción política, polarización extrema, desconfianza en las instituciones, interferencia externa en elecciones, y la restricción de libertades civiles."
+        },
+        {
+          "termino": "Crisis de representatividad política",
+          "descripcion": "Desconexión profunda entre la ciudadanía y sus representantes, generada por la percepción de que los partidos políticos y líderes no reflejan los intereses, necesidades o aspiraciones del electorado. Este fenómeno puede traducirse en baja participación política, rechazo de las instituciones formales, crecimiento de opciones antisistema y debilitamiento de la democracia representativa."
+        },
+        {
+          "termino": "Desinstitucionalización y desbalance de los poderes del Estado",
+          "descripcion": "Debilitamiento progresivo de las normas, prácticas y estructuras que garantizan la autonomía y la interacción equilibrada entre los poderes Ejecutivo, Legislativo y Judicial. Este riesgo puede manifestarse en el uso arbitrario del poder, en la captura de instituciones por intereses particulares y en el colapso de los sistemas de pesos y contrapesos."
+        },
+        {
+          "termino": "Escalamiento de confrontaciones bélicas",
+          "descripcion": "Aparición de un conflicto armado, un enfrentamiento bélico o una guerra en la que dos o más naciones y/o grupos armados combaten."
+        },
+        {
+          "termino": "Fracaso de la descentralización",
+          "descripcion": "Deterioro del proceso de transferencia de competencias, recursos y capacidades desde el gobierno central hacia los gobiernos subnacionales, debido a deficiencias en el diseño institucional, falta de capacidades de gestión local, conflictos de competencias o centralismo persistente. Esto impide una adecuada provisión de servicios públicos, limita el desarrollo territorial y profundiza las brechas regionales."
         },
         {
           "termino": "Fracaso de la gobernanza nacional",
@@ -360,62 +380,42 @@
           "descripcion": "Concentración, explotación y/o restricción de la movilidad por parte de un estado, de bienes, conocimientos, servicios o tecnología críticos para el desarrollo humano con la intención de obtener una ventaja geopolítica"
         },
         {
-          "termino": "Escalamiento de confrontaciones bélicas",
-          "descripcion": "rición de un conflicto armado, un enfrentamiento bélico o una guerra en la que dos o más naciones y/o grupos armados combaten."
+          "termino": "Proliferación de confrontaciones geopolíticas",
+          "descripcion": "Intervenciones militares bilaterales o multilaterales entre estados con consecuencias globales y/o conflictos entre estados utilizando instrumentos económicos (como controles comerciales, barreras no arancelarias y/o medidas monetarias) para consolidar su influencia."
+        },
+        {
+          "termino": "Surgimiento de poderes demagógicos y populistas",
+          "descripcion": "Aparición o fortalecimiento de liderazgos políticos que, mediante discursos simplificadores, polarizantes y emocionalmente cargados, prometen soluciones inmediatas a problemas complejos, debilitando las instituciones, promoviendo el autoritarismo y erosionando las reglas del juego democrático."
+        },
+        {
+          "termino": "Transnacionalización de las organizaciones delictivas",
+          "descripcion": "Expansión de redes criminales que operan más allá de las fronteras nacionales, articulando actividades ilícitas como narcotráfico, trata de personas, minería ilegal, contrabando y lavado de dinero. Estas organizaciones aprovechan vacíos institucionales, debilidad del Estado y flujos globales para consolidar su influencia en territorios, economías y sistemas políticos."
         },
         {
           "termino": "Uso de armas de destrucción masiva",
           "descripcion": "Despliegue de tecnologías y materiales nucleares, químicos, biológicos y radiactivos generando crisis internacionales y potencial destrucción significativa."
-        },
-        {
-          "termino": "Crisis del sistema democrático",
-          "descripcion": "Se refiere a una situación en la que las instituciones y procesos democráticos enfrentan desafíos significativos que amenazan su funcionamiento y legitimidad. Esto puede incluir la erosión de las normas democráticas, corrupción política, polarización extrema, desconfianza en las instituciones, interferencia externa en elecciones, y la restricción de libertades civiles."
-        },
-        {
-          "termino": "Fracaso de la descentralización",
-          "descripcion": "Fracaso de la reforma de descentralización del país, que tiene como objetivo distribuir funciones entre la administración central y los territorios o las entidades que cumplen labores especializadas dentro de los mismos."
-        },
-        {
-          "termino": "Fortalecimiento de economía ilegales",
-          "descripcion": "Crecimiento de actividades económicas fuera de la legalidad que socavan la estabilidad y seguridad económica y política del país."
-        },
-        {
-          "termino": "Transnacionalización de las organizaciones delictivas",
-          "descripcion": "Expansión de redes criminales más allá de las fronteras nacionales, complicando su persecución y control."
-        },
-        {
-          "termino": "Profundización de la desinstitucionalización y desbalance de los poderes del Estado",
-          "descripcion": "Deterioro continuo de la estructura institucional y falta de equilibrio entre los poderes gubernamentales, debilitando la democracia y la gobernanza efectiva."
-        },
-        {
-          "termino": "Surgimiento de poderes demagógicos y populistas",
-          "descripcion": "Aparición de líderes que utilizan la retórica populista para manipular la opinión pública, menoscabando las normas democráticas y el estado de derecho."
         }
       ],
       "oportunidades": [
         {
-          "termino": "Desarrollo de programas de intercambio de talentos",
-          "descripcion": "Refiere a la creación y operación de iniciativas que permiten el movimiento temporal de empleados entre diferentes organizaciones, sectores o países para fomentar la transferencia de conocimientos, habilidades y experiencias. Estos programas están diseñados para enriquecer el desarrollo profesional de los participantes y potenciar la innovación y colaboración entre entidades."
+          "termino": "Desarrollo de plataformas y herramientas CivicTech",
+          "descripcion": "Refiere a la creación y mejora de tecnologías orientadas a empoderar a los ciudadanos en la participación cívica y mejorar la transparencia, eficiencia y rendición de cuentas en la gestión pública. Las plataformas y herramientas Civictech incluyen aplicaciones móviles, sitios web y otros recursos digitales que facilitan la interacción entre ciudadanos y gobiernos, promueven la participación en procesos políticos, y permiten la colaboración en la solución de problemas comunitarios."
         },
         {
           "termino": "Digitalización de gestión y estandarización de datos públicos para la toma de decisiones",
           "descripcion": "Se refiere al proceso de convertir información y procesos de gestión pública en formatos digitales y estandarizar los datos recogidos por diferentes entidades gubernamentales para asegurar su interoperabilidad y accesibilidad."
         },
         {
-          "termino": "Desarrollo de sistemas de defensa digital resilientes usando blockchain, IA e IoT.",
-          "descripcion": "Refiere a la creación de infraestructuras de seguridad cibernética avanzadas que integran tecnologías de blockchain, inteligencia artificial (IA) e Internet de las Cosas (IoT) para proteger datos y sistemas contra ataques y vulnerabilidades."
+          "termino": "Fortalecimiento de la descentralización efectiva",
+          "descripcion": "Impulso a una distribución equilibrada de competencias, recursos y capacidades entre los diferentes niveles de gobierno, con el fin de mejorar la prestación de servicios públicos, fomentar el desarrollo territorial y aumentar la legitimidad de las instituciones locales. "
         },
         {
-          "termino": "Implementación de la IA para acelerar los procesos de gestión pública",
+          "termino": "Fortalecimiento de pactos sociales multisectoriales",
+          "descripcion": "Construcción de acuerdos amplios y sostenibles entre el Estado, el sector privado, la sociedad civil y otros actores clave, orientados a resolver problemáticas complejas y construir una visión compartida de desarrollo."
+        },
+        {
+          "termino": "Implementación de la IA para acelerar los procesos públicos",
           "descripcion": "Refiere al uso de tecnologías de inteligencia artificial para mejorar y agilizar las operaciones y servicios ofrecidos por entidades gubernamentales. Esta implementación puede incluir la automatización de tareas rutinarias, el análisis de grandes volúmenes de datos para la toma de decisiones, y la personalización de servicios para ciudadanos."
-        },
-        {
-          "termino": "Desarrollo de plataformas y herramientas Civictech",
-          "descripcion": "Refiere a la creación y mejora de tecnologías orientadas a empoderar a los ciudadanos en la participación cívica y mejorar la transparencia, eficiencia y rendición de cuentas en la gestión pública. Las plataformas y herramientas Civictech incluyen aplicaciones móviles, sitios web y otros recursos digitales que facilitan la interacción entre ciudadanos y gobiernos, promueven la participación en procesos políticos, y permiten la colaboración en la solución de problemas comunitarios."
-        },
-        {
-          "termino": "Adhesión a alianzas internacionales para la mejora de políticas y gobernanza ",
-          "descripcion": "Integración en redes y organizaciones globales que facilitan el intercambio de conocimientos y buenas prácticas para fortalecer la gobernanza y la implementación de políticas públicas eficaces y basadas en evidencia."
         }
       ]
     }
