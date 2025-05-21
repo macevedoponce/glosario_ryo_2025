@@ -28,7 +28,7 @@
           "descripcion": "Falta de infraestructura resiliente y segura frente a desastres naturales, tecnológicos o antrópicos, como hospitales, escuelas, sistemas de transporte, agua y saneamiento."
         },
         {
-          "termino": "Erosión de la cohesión social",
+          "termino": "Agudización de la fragmentación social",
           "descripcion": "Debilitamiento de los lazos y vínculos que mantienen unida a una sociedad. Esto puede surgir debido a factores como la desigualdad económica, la polarización política, la propagación de desinformación y la exclusión social."
         },
         {
@@ -66,15 +66,15 @@
           "descripcion": "Refiere al fomento y la integración sistemática de las disciplinas de Ciencia, Tecnología, Ingeniería y Matemáticas (STEM, por sus siglas en inglés) en los programas educativos. Este desarrollo se centra en preparar a los estudiantes con las competencias y conocimientos necesarios para comprender y aplicar principios científicos y tecnológicos, resolver problemas complejos y fomentar la innovación. "
         },
         {
-          "termino": "Expansión de la enseñanza de lenguajes de programación en el sistema educativo",
+          "termino": "Incorporación del pensamiento computacional en el sistema educativo",
           "descripcion": "Se refiere al aumento y la integración sistemática de la enseñanza de lenguajes de programación como parte del currículo escolar en todos los niveles educativos. Esta expansión busca dotar a los estudiantes de habilidades fundamentales en codificación y pensamiento computacional, considerados esenciales en la era digital."
         },
         {
-          "termino": "Innovaciones en medicina con aplicaciones de la ingeniería genética",
+          "termino": "Innovaciones en medicina con aplicaciones éticas de la ingeniería genética",
           "descripcion": "Refiere al avance y aplicación de tecnologías que permiten modificar el ADN de organismos vivos, incluyendo humanos, con alta precisión. En medicina, la edición genética se utiliza para corregir mutaciones que causan enfermedades, mejorar la resistencia a patologías y optimizar terapias genéticas."
         },
         {
-          "termino": "Neurotecnologías para enfermedades degenerativas",
+          "termino": "Uso ético de neurotecnologías para enfermedades degenerativas",
           "descripcion": "Se refiere al desarrollo y aplicación de tecnologías avanzadas diseñadas para diagnosticar, monitorear, tratar o mitigar los efectos de enfermedades degenerativas del sistema nervioso, como el Alzheimer, el Parkinson o la esclerosis múltiple."
         },
         {
@@ -90,7 +90,7 @@
           "descripcion": "Posibilidad de aplicar la Inteligencia Artificial en instituciones educativas de nivel universitario para personalizar el aprendizaje, mejorar la eficiencia administrativa, impulsar la investigación y fomentar la colaboración en línea. Implica adaptar contenidos y métodos de enseñanza según las necesidades individuales de los estudiantes, automatizar tareas administrativas, acelerar el análisis de datos científicos, y facilitar la interacción y el trabajo en proyectos entre estudiantes y profesores."
         },
         {
-          "termino": "Tratamiento de enfermedades mediante el uso de la nanotecnología",
+          "termino": "Tratamiento de enfermedades mediante el uso ético de la nanotecnología",
           "descripcion": "Se refiere al empleo de materiales y dispositivos a escala nanométrica para diagnosticar, prevenir y tratar enfermedades. La nanotecnología en medicina puede incluir el diseño de nanopartículas que actúan como vehículos para administrar medicamentos de manera más eficaz y específica a las células enfermas, minimizando los efectos secundarios en tejidos sanos."
         },
         {
@@ -145,7 +145,7 @@
           "descripcion": "Posibilidad de utilizar fuentes renovables y sostenibles de energía, como la solar, la eólica, la hidráulica, la geotérmica y la biomasa, para generar electricidad y reducir la dependencia de combustibles fósiles que contribuyen al cambio climático y la contaminación del medioambiente."
         },
         {
-          "termino": "Desarrollo de la biotecnología y bioingeniería",
+          "termino": "Desarrollo ético de la biotecnología y bioingeniería",
           "descripcion": "Utilización de avances en la biología molecular, la bioquímica, la genética y la ingeniería para desarrollar soluciones innovadoras en diversas áreas, como la salud, la alimentación, el medioambiente y la industria."
         },
         {
@@ -236,7 +236,7 @@
           "descripcion": "Se refiere a la integración creciente de la computación en la nube en la industria para optimizar y automatizar procesos de producción y gestión. Este desarrollo permite a las empresas acceder a recursos informáticos escalables y a demanda, como almacenamiento de datos, procesamiento y aplicaciones de software, sin la necesidad de infraestructura física costosa en sus instalaciones."
         },
         {
-          "termino": "Potenciación e implementación de la IA en la generación de nuevas tecnologías",
+          "termino": "Potenciación e implementación de la IA en la generación ética de nuevas tecnologías",
           "descripcion": "Posibilidad de utilizar la IA en el desarrollo de innovaciones tecnológicas y la mejora de procesos existentes. Con la creciente cantidad de datos disponibles y la capacidad de procesamiento de la computación en la nube, la IA se ha convertido en una herramienta poderosa para descubrir patrones y tendencias en los datos que de otra manera serían difíciles de detectar."
         },
         {
@@ -244,7 +244,7 @@
           "descripcion": "Aplicación de la tecnología blockchain en la educación con el fin de potenciar la calidad y la eficiencia del proceso de enseñanza-aprendizaje. Mediante la tecnología blockchain se puede establecer registros seguros, inmutables y verificables de los logros académicos y las credenciales de los estudiantes, lo cual simplifica el proceso de evaluación y reconocimiento de títulos y certificaciones."
         },
         {
-          "termino": "Seguridad de las transacciones digitales",
+          "termino": "Fortalecimiento de la seguridad en transacciones digitales",
           "descripcion": "Desarrollo de tecnologías y medidas que protejan de manera efectiva la información y los datos en línea, especialmente durante el proceso de transacciones financieras y comerciales. Esto puede incluir la implementación de sistemas de encriptación avanzados, autenticación multifactorial, biometría y tecnologías de reconocimiento facial"
         },
         {
@@ -311,15 +311,15 @@
           "descripcion": "Expansión y fortalecimiento de redes globales de manufactura y ensamblaje entre empresas y países, con enfoque en la especialización y la integración eficiente de procesos productivos. Esta oportunidad permite aumentar la participación en cadenas globales de valor, atraer inversión extranjera, transferir tecnología y mejorar capacidades locales para competir en mercados internacionales."
         },
         {
-          "termino": "Gran impulso del turismo verde",
+          "termino": "Gran impulso al turismo verde",
           "descripcion": "Se refiere a la expansión significativa y estratégica del turismo que se enfoca en la sostenibilidad ambiental y la conservación de la naturaleza. Este tipo de turismo promueve prácticas que minimizan el impacto negativo en el medio ambiente y las comunidades locales, al tiempo que fomenta la educación ambiental de los visitantes."
         },
         {
-          "termino": "Impulso de inversiones en infraestructura estratégica",
+          "termino": "Impulso a las inversiones en infraestructura estratégica",
           "descripcion": "Fomento de inversiones en obras de infraestructura clave para el desarrollo económico, como redes de transporte multimodal, energía, telecomunicaciones, puertos, aeropuertos y conectividad digital. Estas inversiones mejoran la competitividad, reducen costos logísticos, integran mercados regionales y atraen nuevas actividades productivas."
         },
         {
-          "termino": "Impulso financiero a inversiones verdes (Finanzas sostenibles)",
+          "termino": "Impulso financiero a inversiones verdes",
           "descripcion": "Posibilidad de fomentar la inversión en proyectos y tecnologías que promuevan la sostenibilidad y la mitigación del cambio climático, como la energía renovable, la eficiencia energética, la movilidad sostenible, entre otros. De esta manera, se busca no solo reducir las emisiones de gases de efecto invernadero, sino también crear empleo y contribuir al desarrollo sostenible del país."
         },
         {
@@ -402,7 +402,7 @@
           "descripcion": "Refiere a la creación y mejora de tecnologías orientadas a empoderar a los ciudadanos en la participación cívica y mejorar la transparencia, eficiencia y rendición de cuentas en la gestión pública. Las plataformas y herramientas Civictech incluyen aplicaciones móviles, sitios web y otros recursos digitales que facilitan la interacción entre ciudadanos y gobiernos, promueven la participación en procesos políticos, y permiten la colaboración en la solución de problemas comunitarios."
         },
         {
-          "termino": "Digitalización de gestión y estandarización de datos públicos para la toma de decisiones",
+          "termino": "Digitalización y estandarización de datos públicos",
           "descripcion": "Se refiere al proceso de convertir información y procesos de gestión pública en formatos digitales y estandarizar los datos recogidos por diferentes entidades gubernamentales para asegurar su interoperabilidad y accesibilidad."
         },
         {
